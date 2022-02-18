@@ -26,6 +26,7 @@
 ?>
     <br/>
     <button type="button" class="btn btn-warning"><b>Click Here Jare</b></button>
+    <button type="button" class="btn btn-success"><b>Click Here Jare</b></button>
 
 <!--Add Required Footer -->
 <?php 
