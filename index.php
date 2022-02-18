@@ -27,6 +27,7 @@
     <br/>
     <button type="button" class="btn btn-warning"><b>Click Here Jare</b></button>
     <button type="button" class="btn btn-success"><b>Click Here Jare</b></button>
+    <a href="https://www.greenseatop.com" target="_blank" rel="noopener noreferrer" class="btn btn-danger">GreenSea Top</a>
 
 <!--Add Required Footer -->
 <?php 
